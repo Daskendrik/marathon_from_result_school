@@ -1,4 +1,4 @@
-"use static"
+"use strict"
 //ПОПРОБОВАТЬ ТОЖЕ САМОЕ ЧЕРЕЗ jQuery
 const items = document.querySelectorAll('.item')
 const placeHolders = document.querySelectorAll('.placeholder')
