@@ -1,4 +1,4 @@
-"use static"
+"use strict"
 
 const slides = document.querySelectorAll('.slide') //берем все слайды
 
